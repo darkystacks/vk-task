@@ -14,7 +14,7 @@
 
 Склонируйте репозиторий:
 ```
-git clone https://github.com/darkystacks/vk_task
+git clone https://github.com/darkystacks/vk-task
 ```
 
 ### Запуск
