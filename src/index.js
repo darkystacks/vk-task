@@ -1,4 +1,4 @@
-import './index.html'
+import '../index.html'
 import './index.css'
 
 let startTimer;
